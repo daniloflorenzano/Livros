@@ -9,5 +9,4 @@
 - Orientação a Objetos - Thiago Leite e Carvalho | Março/2023
 - Código Limpo - Robert C. Martin | Fevereiro/2023
 
-## ❌ Leituras abandonadas
-- DevOps Na Prática: Entrega de Software Confiável e Automatizada - Danilo Sato
+
