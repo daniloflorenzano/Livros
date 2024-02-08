@@ -1,4 +1,4 @@
-# 📖 Registro de livros técnicos consumidos
+# 📖 Registro de leitura técnica
 
 ## ⏳ Leitura em andamento
 - The Rust Programming Language - Steve Klabnik, Carol Nichols
